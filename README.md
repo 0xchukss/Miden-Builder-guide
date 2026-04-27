@@ -51,4 +51,25 @@ run,
 
 all these ARE SAMPLES. NOTE
 
+<img width="975" height="369" alt="image" src="https://github.com/user-attachments/assets/235e1fd2-9356-4e0f-857b-5c28b6492e86" />
+
+# step 4: frontend prompting
+run;
+<pre>
+    Use react-sdk-patterns to build a payroll dashboard with wallet connection.
+</pre>
+
+
 <img width="975" height="466" alt="image" src="https://github.com/user-attachments/assets/61325793-7204-40c3-b9d2-1de25c68a7d6" />
+
+# RESULT
+
+<img width="1841" height="815" alt="Screenshot_27-4-2026_144429_localhost" src="https://github.com/user-attachments/assets/0df03303-ff7f-4f91-8e18-c29710952f7d" />
+
+noTE;
+you should also test the smart contracts
+e.g Use rust-sdk-testing-patterns to create tests for salary distribution.
+
+debugging: Check this contract for rust-sdk-pitfalls.
+
+# good luck building
